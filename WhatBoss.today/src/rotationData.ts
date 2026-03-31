@@ -34,7 +34,7 @@ export const RAID_BOUNTY_ROTATION: RotationSlot[] = [
       { boss: "Xunlai Jade Junkyard", location: "End of Dragons Raid" },
       { boss: "Temple of Febe", location: "Secrets of the Obscure Raid" },
       { boss: "Keep Construct", location: "Stronghold of the Faithful (W3)" },
-      { boss: "Kela", location: "Guardian's Glade (W5)" },
+      { boss: "Kela", location: "Guardian's Glade" },
     ]
   },
   {
