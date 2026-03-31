@@ -12,6 +12,10 @@ dist
 dist-ssr
 *.local
 
+# Tailwind CSS
+# Config files are committed
+# Built CSS output goes to dist (ignored above)
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
