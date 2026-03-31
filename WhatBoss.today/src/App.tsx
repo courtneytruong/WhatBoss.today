@@ -8,6 +8,10 @@ function App() {
   return (
     <>
       <div className="app-container">
+        <header className="app-header">
+          <h1>WhatBoss.Today</h1>
+        </header>
+
         {isLoading && (
           <section className="loading-section">
             <div className="loading-spinner">Loading raid rotation...</div>
